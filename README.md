@@ -100,17 +100,17 @@ An intelligent, autonomous customer support chatbot built for e-commerce platfor
 
 Agent Type: ZERO_SHOT_REACT_DESCRIPTION
 LLM: llama3-8b-8192 via Groq API
-Tools: 
-- check_order_status,
-- cancel_order,
-- process_return_or_refund,
-- search_products,
-- get_product_details,
-- recommend_products,
-- get_customer_info,
-- update_preferences,
-- check_loyalty_points,
-- get_weather,
+### Tools: 
+- check_order_status
+- cancel_order
+- process_return_or_refund
+- search_products
+- get_product_details
+- recommend_products
+- get_customer_info
+- update_preferences
+- check_loyalty_points
+- get_weather
 - weather_based_recommendation
 
 

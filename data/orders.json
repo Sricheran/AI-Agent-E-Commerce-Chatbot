@@ -1,0 +1,63 @@
+{
+  "john@example.com": [
+    {
+      "order_id": 1,
+      "product_name": "Dell XPS",
+      "product_category": "electronics",
+      "product_type": "laptop",
+      "status": "shipped",
+      "can_cancel": false,
+      "can_refund": false,
+      "can_return": false,
+      "location": "chennai"
+    },
+    {
+      "order_id": 4,
+      "product_name": "Cetaphil Cream",
+      "product_category": "skincare",
+      "product_type": "moisturizer",
+      "status": "delivered",
+      "can_cancel": false,
+      "can_refund": true, 
+      "can_return": true,
+      "location": "chennai"
+    },
+    {
+      "order_id": 5,
+      "product_name": "Nescafe E Smart",
+      "product_category": "appliances",
+      "product_type": "coffee maker",
+      "status": "delivered",
+      "can_cancel": false,
+      "can_refund": false,
+      "can_return": true,
+      "location": "chennai"
+    }
+  ],
+  "jane@example.com": [
+    {
+      "order_id": 2,
+      "product_name": "HP Pavilion",
+      "product_category": "electronics",
+      "product_type": "laptop",
+      "status": "dispatched",
+      "can_cancel": true,
+      "can_refund": true,
+      "can_return": false,
+      "location": "hyderabad"
+    }
+  ],
+  "bob@example.com": [
+    {
+      "order_id": 3,
+      "product_name": "Neutrogena SPF 50",
+      "product_category": "skincare",
+      "product_type": "sunscreen",
+      "status": "processing",
+      "can_cancel": true,
+      "can_refund": true,
+      "can_return": false,
+      "location": "delhi"
+    }
+  ]
+}

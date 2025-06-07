@@ -1,0 +1,8 @@
+{
+    "laptop": ["Dell XPS", "HP Pavilion"],
+    "phone": ["iPhone 14", "Samsung Galaxy S22"],
+    "sunscreen": ["Neutrogena SPF 50", "Lotus SPF 40"],
+    "moisturizer": ["Cetaphil Cream", "Nivea Soft"],
+    "air conditioner": ["LG DualCool", "Voltas Inverter AC"],
+    "coffee maker": ["Nescafe E Smart", "Philips Brew"]
+}

@@ -1,0 +1,14 @@
+{
+    "Dell XPS": {"price": 95000, "availability": "in stock"},
+    "HP Pavilion": {"price": 65000, "availability": "out of stock"},
+    "iPhone 14": {"price": 80000, "availability": "in stock"},
+    "Samsung Galaxy S22": {"price": 75000, "availability": "in stock"},
+    "Neutrogena SPF 50": {"price": 799, "availability": "in stock"},
+    "Lotus SPF 40": {"price": 599, "availability": "out of stock"},
+    "Cetaphil Cream": {"price": 499, "availability": "in stock"},
+    "Nivea Soft": {"price": 299, "availability": "in stock"},
+    "LG DualCool": {"price": 35000, "availability": "in stock"},
+    "Voltas Inverter AC": {"price": 33000, "availability": "out of stock"},
+    "Nescafe E Smart": {"price": 5500, "availability": "in stock"},
+    "Philips Brew": {"price": 4200, "availability": "in stock"}
+}

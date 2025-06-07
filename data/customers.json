@@ -1,0 +1,26 @@
+{
+    "john@example.com": {
+        "name": "John Doe",
+        "preferences": ["electronics"],
+        "loyalty_points": 120,
+        "order_ids": ["1", "4", "5"]
+    },
+    "jane@example.com": {
+        "name": "Jane",
+        "preferences": ["appliances"],
+        "loyalty_points": 150,
+        "order_ids": ["2"]
+    },
+    "alice@example.com": {
+        "name": "Alice",
+        "preferences": ["electronics"],
+        "loyalty_points": 100,
+        "order_ids": []
+    },
+    "bob@example.com": {
+        "name": "Bob",
+        "preferences": ["skincare"],
+        "loyalty_points": 80,
+        "order_ids": ["3"]
+    }
+}
